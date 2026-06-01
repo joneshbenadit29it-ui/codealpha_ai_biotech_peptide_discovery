@@ -79,10 +79,3 @@ Upon successful execution of this project, the following deliverables and impact
 
 ---
 <p align="center">Made with ❤️ for the CodeAlpha Internship Program</p>
-🚀 Update your GitHub Repository with these quick commands:
-After updating the file, run this final block in your terminal to sync the changes to your GitHub page:
-
-Bash
-git add README.md
-git commit -m "Style: Update README with attractive layout and emojis"
-git push origin main
